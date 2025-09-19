@@ -6,3 +6,4 @@
 #### 4- git reseet head --filename-- "To return back specific file from staging area"
 #### 5- git branch "make you see all branches"
 #### 6- git remote -v 
+#### 7- git push origin 'branch name' "To push project to remote repo "
