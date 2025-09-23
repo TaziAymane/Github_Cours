@@ -1,4 +1,5 @@
 # Github_Cours
+<img width="1029" height="614" alt="Github" src="https://github.com/user-attachments/assets/06dcb035-ed7c-49ee-92a5-67405841abf9" />
 ## Project Commande
 #### 1- git clone "To download the clone the project from repository"
 #### 2- git status  " To see the defrent between working directory and staging area"
